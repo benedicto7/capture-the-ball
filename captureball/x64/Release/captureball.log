@@ -1,0 +1,9 @@
+﻿  Ball.cpp
+  Game.cpp
+  main.cpp
+  Player.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 92 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  captureball.vcxproj -> C:\Users\Benedicto\Desktop\VS\CaptureBall\x64\Release\captureball.exe
